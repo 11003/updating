@@ -24,4 +24,4 @@ npm run serve
 
 样式二：
 
-![](https://gitee.com/liuhaier/images/raw/master/img/20211225163639.png)
+![](https://gitee.com/liuhaier/images/raw/master/img/20211225165549.png)
