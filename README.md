@@ -20,8 +20,8 @@ npm run serve
 
 样式一：
 
-![](https://gitee.com/liuhaier/images/raw/master/img/img.png)
+![](https://github.com/Haiwar/updating/blob/master/img/1.png?raw=true)
 
 样式二：
 
-![](https://gitee.com/liuhaier/images/raw/master/img/20211225165549.png)
+![](https://github.com/Haiwar/updating/blob/master/img/2.png?raw=true)
