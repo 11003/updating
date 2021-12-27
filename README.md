@@ -2,6 +2,10 @@
 
 晚上别找我改代码，我的电脑在更新！
 
+## 极速版使用
+
+https://github.com/Haiwar/updating/blob/main/updating.html
+
 ## Use
 
 ```
